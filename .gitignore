@@ -1,0 +1,5 @@
+venv/
+data/
+extracted_content/
+.env
+__pycache__/
